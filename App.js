@@ -29,3 +29,6 @@ const gameLoop = setInterval(() => {
     game.update();
     game.render();
 }, TICK_RATE_MS);
+
+// README - TO START THE GAME
+// node App.js
